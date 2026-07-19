@@ -13,7 +13,7 @@
     "relation": ["delegate_permission/common.use_as_origin"],
     "target": {
       "namespace": "android_app",
-      "package_name": "pl.dobrowolscy.env1.wms",
+      "package_name": "fm.iroh.android",
       "sha256_cert_fingerprints": [
         "B4:39:05:72:C0:38:D1:68:0B:74:48:BC:F7:03:9B:07:00:D4:A8:8D:E2:B4:3C:17:8E:EC:50:02:33:D2:24:41"
       ]
